@@ -1,0 +1,19 @@
+{
+    "name": "karneaud/woocommerce-trinebox-shipping",
+    "description": "WooCommerce Trinebox Shipping Extension",
+    "keywords": ["woocommerce", "extension"],
+    "homepage": "http://www.trinebox.com",
+    "license": "GPL-2.0+",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Kendall Arneaud",
+            "homepage": "http://www.kendallarneaud.me"
+        },
+    ],
+    "type": "woocommerce-extension-plugin",
+    "minimum-stability": "dev"
+}
